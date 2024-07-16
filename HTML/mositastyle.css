@@ -1,0 +1,9 @@
+body {background-color: grey; background-image: url(media/clothing-rack-with-floral-hawaiian-shirts-hangers-hat_23-2149366017.jpeg); background-size: 100%;}
+h1 {color: maroon;font-size: 80px; text-align: left;}
+h4 {color: maroon;font-size: 25px; text-align: left;}
+img{size: 50%;}
+table, th, td {
+    border: 1px solid black;
+  }
+  tr:hover {background-color:maroon}
+

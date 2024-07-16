@@ -1,0 +1,35 @@
+header{
+    background-image: url(pexels-adrien-olichon-1257089-2387819.jpg);
+    background-size: cover;
+    background-position: center;
+}
+header ul{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    min-height: 70px;
+}
+header ul li{
+    display: inline-block;
+}
+header ul li a{
+    text-decoration: none;
+    color: gray;
+    padding: 5px 15px;
+    border: 1px solid transparent;
+    transition: 0.5 ease;
+}
+header h1{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+header h1{
+    color: aqua;
+    margin-left: 50px;
+    min-height: 400px;
+}
+main{
+    background-color: gray;
+    
+}
+    
